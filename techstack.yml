@@ -2,7 +2,7 @@ repo_name: Clivern/Prometheus-Cookbook
 report_id: 2d49fb3409997a26a6aac37177fb692e
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:22:05+00:00'
+timestamp: '2024-01-05T08:18:15+00:00'
 requested_by: Clivern
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/Clivern/Prometheus-Cookbook
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -26,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Clivern/Prometheus-Cookbook
   detection_source: Repo Metadata
